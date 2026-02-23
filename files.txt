@@ -34,6 +34,13 @@ RunningAway.png
 SICK.lrc
 Sick.mp3
 Sick.png
+wrecked.mp3
+justice.mp3
+glitched.mp3
+rainbow.mp3
+finallyafterallthistime.mp3
+bayhem.mp3
+bigblack.mp3
 The_Divine_Comedy.mp3
 The_Divine_Comedy.png
 UltimateShowdown.lrc
